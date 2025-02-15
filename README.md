@@ -2,7 +2,7 @@
 
 **BarTuner** 是一款专为 macOS 用户设计的工具，旨在帮助调节菜单栏右上角图标的间距，提升用户界面体验。
 
-![show](./assets/show.gif)
+![show](assets/show.gif)
 
 ## 背景
 
