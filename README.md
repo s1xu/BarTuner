@@ -21,8 +21,15 @@ BarTuner 可以轻松调整 macOS 菜单栏右上角图标的间距，使得用�
 
 ### 使用：
 
-[前往Releases下载](https://github.com/s1xu/BarTuner/releases)
+1. [前往Releases下载](https://github.com/s1xu/BarTuner/releases)
+2. 打开dmg, 会在桌面生成BarTuner
+3. 点击打开BarTuner，将BarTuner拖入右侧文件夹
+4. 如无法打开、文件已损坏或其他提示，需移除隔离属性
 
+| 在终端输入：
+```
+sudo xattr -dr com.apple.quarantine /Applications/BarTuner.app
+```
 
 ### 许可证
 此项目采用 MIT 许可证。
